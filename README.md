@@ -16,4 +16,9 @@ Fight neat, kill with accuracy, or the Serumoids kill everyone...
 
 Well, that's the rough idea, anyway...
 
+BUILDING:
+You will need gl.h:
+   sudo apt-get install libglu1-mesa-dev
+
+ 
 
